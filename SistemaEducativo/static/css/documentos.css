@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,200&display=swap');
+
+*{
+
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --color-hover: rgb(6, 146, 67);
+    --transition: all 0.2s ease;
+    /*background-image: url("../../../static/img/children-playing.jpg");*/
+
+
+}
+
+.menu-title{
+    text-align: center;
+    padding-top: 20px;
+    color:  #36864e;
+}
+
+.form{
+    padding: 25px;
+
+}
+
+.form .container-1{
+    padding-top: 25px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding-bottom: 15px;
+
+}
+
+.form .container-2{
+    padding-top: 25px;
+    text-align: center;
+    background-color: #36864e;
+    color: #000;
+    padding-bottom: 15px;
+
+}
+
+.form .container-3{
+    padding-top: 25px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding-bottom: 15px;
+
+}
+
+.container-form .form-control h2{
+    color: #000;
+}
+.form_control form{
+    padding-top: 25px;
+}
+
+/*button.btn.btn-dark{
+    padding-bottom: 25px;
+}*/
